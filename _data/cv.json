@@ -16,14 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "Towlette_Pettetucci",
-        "url": "https://twitter.com/Towlette_Pettetucci"
-      },
-      {
-        "network": "SoundCloud",
-        "username": "Towlette_Pettetucci",
-        "url": "https://soundcloud.com/Towlette_Pettetucci"
+        "network": "LinkedIn",
+        "username": "molla-hafizur-rahman-a5284151",
+        "url": "https://www.linkedin.com/in/molla-hafizur-rahman-a5284151/"
       }
     ]
   },
@@ -36,8 +31,7 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Concealed nipper in embrodiery.",
-        "Dealt with Elastical Gomez on a daily basis."
+        "Data collection.",
       ]
     },
     {
