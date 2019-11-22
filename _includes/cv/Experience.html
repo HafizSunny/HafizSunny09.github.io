@@ -1,11 +1,11 @@
-{% if cv.work %}
+{% if cv.Experience %}
   <div id="Experience" class="entry">
     <header class="entry-header">
-      <h3 class="entry-title">Work</h3>
+      <h3 class="entry-title">Experience</h3>
     </header>
 
     <div class="entry-content">
-      {% for w in cv.work %}
+      {% for w in cv.Experience %}
         {% if w.company %}
           <h3 class="name">
             {% if w.website %}
