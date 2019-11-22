@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Hafiz's personal website
+title: Molla Hafizur Rahman
 email: hafiz.sunny0909@gmail.com
 description: AI enthusiastic
 baseurl: # the optional subpath of your site, e.g. "/blog"
@@ -27,7 +27,7 @@ twitter_username: Sunny09022
 github_username: HafizSunny
 linkedin_username: molla-hafizur-rahman-a5284151
 
-logo: "/images/logo.svg"
+logo: "/images/k.svg"
 search: # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
