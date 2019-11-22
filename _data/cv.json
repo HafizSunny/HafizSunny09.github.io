@@ -37,13 +37,15 @@
     {
       "company": "Abul Khair Steel Melting Limited",
       "position": "Mechanical Engineer",
-      "website": "https://thewh.ip",
+      "website": "http://abulkhairsteel.com/",
       "startDate": "2016-01-01",
       "endDate": "2017-06-22",
       "summary": "",
       "highlights": [
-        "Concealed nipper in embrodiery.",
-        "Dealt with Elastical Gomez on a daily basis."
+        "Led a manufacturing & maintenance team for the smooth operation of fully automated furnace (EAF) of 100 tons capacity",
+        "Conducted a time-series analysis using previous 5 years data set in R for billet production forecasting.",
+        "Collected data from different department and used them to plan and execute breakdown or scheduled maintenance, created troubleshooting and preventive maintenance plans",
+        "Developed quality assurance technique for reducing waste in material and optimized manufacturing process"
       ]
     }
   ],
