@@ -99,20 +99,22 @@
   ],
   "skills": [
     {
-      "name": "C++, Python, R, Keras, Scikit-learn",
+      "name": "Programming Language",
       "level": "Master",
       "keywords": [
-        "Ointment",
-        "Voltor",
-        "Millipedes"
+        "C++",
+        "Python",
+        "R",
+        "MatLab"
       ]
     },
     {
-      "name": "Bruschotti",
-      "level": "Satisfactory",
+      "name": "Deep Learning Library",
+      "level": "Experienced",
       "keywords": [
-        "Snow camp",
-        "Owl"
+        "Keras",
+        "PyTorch",
+        "Scikit-learn"
       ]
     }
   ],
