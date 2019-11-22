@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Dugan Nash",
-    "label": "Very extravagant man",
-    "picture": "",
-    "email": "dugan.hash@mailinator.com",
+    "name": "Molla Hafizur Rahman",
+    "label": "Focused and Hard working",
+    "picture": "/images/bio-photo.jpg",
+    "email": "hafiz.sunny0909@gmail.com",
     "phone": "(555) 555-5555",
     "website": "https://towlettepettetuc.ci",
-    "summary": "Nash is well versed in the Montoyan / Artesian Connection, preparation of grasshopper mash, and baking of grover loaves.",
+    "summary": "",
     "location": {
-      "address": "123 Sesame Street",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "1211 N Leverett Ave",
+      "postalCode": "AR 72703",
+      "city": "Fayetteville",
       "countryCode": "US",
-      "region": "California"
+      "region": "Arkansas"
     },
     "profiles": [
       {
@@ -27,7 +27,7 @@
       }
     ]
   },
-  "work": [
+  "Experience": [
     {
       "company": "The Whip",
       "position": "CEO/President",
