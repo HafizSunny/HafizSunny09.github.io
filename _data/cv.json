@@ -70,22 +70,22 @@
     {
       "institution": "Bangladesh University of Engineering and Technology",
       "area": "Naval Architecture and Marine Engineering",
-      "studyType": "Bachelor of Science",
+      "studyType": "B.Sc.",
       "startDate": "2017-08-22",
       "endDate": "2015-06-30",
       "gpa": "3.24",
       "courses": [
-        "CSCSE 5013 - Deep Learning",
+        "CSCE 5013 - Deep Learning",
         "CSCE 5063 - Machine Learning"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Warble Pioneer Award",
-      "date": "2001-11-01",
-      "awarder": "Levi Goulet",
-      "summary": "Have you seen my turtle?"
+      "title": "Best Paper Award",
+      "date": "2019-09-05",
+      "awarder": "ASME",
+      "summary": "Received in IDETC/CIE Conference "
     }
   ],
   "publications": [
@@ -93,8 +93,8 @@
       "name": "A CAD-Based Research Platform for Data-Driven Design Thinking Studies",
       "publisher": "Journal of Mechanical Design",
       "releaseDate": "2014-10-01",
-      "website": "https://en.rhy.es",
-      "summary": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test."
+      "website": "https://fluidsengineering.asmedigitalcollection.asme.org/mechanicaldesign/article-standard/141/12/121102/956260/A-Computer-Aided-Design-Based-Research-Platform",
+      "summary": "Developed a data-drievn CAD software: Energy3D for research purpose"
     }
   ],
   "skills": [
@@ -116,6 +116,17 @@
         "PyTorch",
         "Scikit-learn"
       ]
+    },
+    {
+      "name": "Engineering Software",
+      "level": "Experienced",
+      "keywords": [
+        "AutoCAD",
+        "Solidwork",
+        "Rhino",
+        "ANSYS",
+        "3dsMAX"
+      ]
     }
   ],
   "languages": [
@@ -126,17 +137,11 @@
   ],
   "interests": [
     {
-      "name": "The Information Superhighway",
+      "name": "AI-Technology",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Self-driving car",
+        "Fraud detection"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": " Nannette Nananacci",
-      "reference": "It is my pleasure to recommend Dugan Nash, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
     }
   ]
 }
