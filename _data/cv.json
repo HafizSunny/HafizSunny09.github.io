@@ -53,30 +53,30 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Steve's Meat Market",
-      "position": "Assistant",
-      "website": "",
-      "startDate": "1995-01-01",
-      "endDate": "1997-03-20",
-      "summary": "Ground up some sort of grasshopper mash for fishing.",
-      "highlights": [
-        "Awarded a 'Helium Biscuit'"
-      ]
-    }
-  ],
+
   "education": [
     {
       "institution": "University of Arkansas",
-      "area": "Digital Skillets",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
+      "area": "Mechanical Engineering",
+      "studyType": "Ph.D.",
+      "startDate": "2017-08-22",
+      "endDate": "Present",
+      "gpa": "3.70",
       "courses": [
-        "DB1101 - Perpendicular Crosstalk",
-        "CS2011 - Introduction to Moisturization"
+        "CSCSE 5013 - Deep Learning",
+        "CSCE 5063 - Machine Learning"
+      ]
+    },
+    {
+      "institution": "Bangladesh University of Engineering and Technology",
+      "area": "Naval Architecture and Marine Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2017-08-22",
+      "endDate": "2015-06-30",
+      "gpa": "3.24",
+      "courses": [
+        "CSCSE 5013 - Deep Learning",
+        "CSCE 5063 - Machine Learning"
       ]
     }
   ],
