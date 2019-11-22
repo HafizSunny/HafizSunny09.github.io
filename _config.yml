@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: My Awesome Site
+title: Molla Hafizur Rahman
 email: hafiz.sunny0909@gmail.com
 description: Personal Website
 baseurl: # the optional subpath of your site, e.g. "/blog"
@@ -86,7 +86,7 @@ defaults:
   # _pages
   - scope:
       path: "_pages"
-      type: page
+      type: pages
     values:
       layout: page
       read_time: true
