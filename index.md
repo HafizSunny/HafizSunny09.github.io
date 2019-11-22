@@ -1,5 +1,5 @@
 ---
 layout: home
-image: /images/dreamy.jpg
+image: /images/About.jpg
 ---
 This is my personal website
