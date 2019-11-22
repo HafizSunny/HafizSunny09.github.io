@@ -1,7 +1,6 @@
 ---
 title: "About"
 layout: about
-images : "/images/bio-photo.jpg"
 ---
 
 I am Molla Hafizur Rahman, a Ph.D. student in the Department of [Mechanical Engineering](https://mechanical-engineering.uark.edu/) at the [University of Arkansas](http://www.uark.edu/) serving as a research assistant and work with [Dr. Zhenghui Sha](https://mechanical-engineering.uark.edu/Directory/index/uid/zsha/name/Zhenghui+Sha/) in System Integration and Design Informatics [(SIDI)](https://sidilab.net/) laboratory. My research is focused on studying sequential decision-making in engineering design by applying and developing machine learning, deep learning, and statistical methods.
