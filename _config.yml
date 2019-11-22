@@ -27,7 +27,7 @@ twitter_username: Sunny09022
 github_username: HafizSunny
 linkedin_username: molla-hafizur-rahman-a5284151
 
-logo: #"/images/Logo_mine.svg"
+logo: "/images/Logo_mine.svg"
 search: # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
