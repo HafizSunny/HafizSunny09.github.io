@@ -109,7 +109,7 @@
   }
 
   .contact-list {
-    @include fluid-type($min-vw, $max-vw, 12px, 20px);
+    @include fluid-type($min-vw, $max-vw, 10px, 18px);
     margin-top: 0.5rem;
     padding-top: 0.5rem;
 
