@@ -35,5 +35,6 @@ google_fonts:
 
 navigation_pages:
   - About.md
-  - cv.md
   - Research.md
+  - Publications.md
+  - cv.md
