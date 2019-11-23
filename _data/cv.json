@@ -57,10 +57,12 @@
       "studyType": "Ph.D.",
       "startDate": "2017-08-22",
       "endDate": "Present",
-      "gpa": "3.70",
+      "gpa": "3.38",
       "courses": [
         "CSCSE 5013 - Deep Learning",
-        "CSCE 5063 - Machine Learning"
+        "CSCE 5063 - Machine Learning",
+        "STAT 5313 - Regression",
+        "MEEG 591V - Decision making"
       ]
     },
     {
@@ -71,8 +73,9 @@
       "endDate": "2015-06-30",
       "gpa": "3.24",
       "courses": [
-        "CSCE 5013 - Deep Learning",
-        "CSCE 5063 - Machine Learning"
+        "Probability theory",
+        "Numerical Method",
+        "Partial differenciation"
       ]
     }
   ],
@@ -88,10 +91,25 @@
     {
       "name": "A CAD-Based Research Platform for Data-Driven Design Thinking Studies",
       "publisher": "Journal of Mechanical Design",
-      "releaseDate": "2014-10-01",
+      "releaseDate": "2019-11-01",
       "website": "https://fluidsengineering.asmedigitalcollection.asme.org/mechanicaldesign/article-standard/141/12/121102/956260/A-Computer-Aided-Design-Based-Research-Platform",
       "summary": "Developed a data-drievn CAD software: Energy3D for research purpose"
+    },
+    {
+      "name": "A Deep Learning Based Approach to Predict Sequnetial Design Decisions",
+      "publisher": "IDETC/CIE Conference 2019, American society of Mechanical Engineer (ASME)",
+      "releaseDate": "Not publisehed online yet",
+      "website": "",
+      "summary": "Developed a deep learning mdoel usign long short term memory (LSTM) to predict design sequences"
+    },
+    {
+      "name": " Automatic Clustering of Sequential Design Behaviors",
+      "publisher": "IDETC/CIE Conference 2018, American society of Mechanical Engineer (ASME)",
+      "releaseDate": "2018-11-02",
+      "website": "https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2018/51739/V01BT02A041/273543",
+      "summary": "Developed a novel method of group designer based on sequential behaviors usign Markov chain and Clustering algorithims"
     }
+
   ],
   "skills": [
     {
