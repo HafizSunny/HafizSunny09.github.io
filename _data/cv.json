@@ -140,10 +140,17 @@
         "AWS",
         "Spark",
         "Linux",
-        "AutoCAD",
-        "Solidwork",
+        "Tableau"
+      ]
+    },
+    {
+      "name": "Engineering software",
+      "level": "Experienced",
+      "keywords": [
+        "AutoCad",
         "Rhino",
-        "ANSYS"
+        "Solidwork",
+        "Ansys"
       ]
     }
   ],
