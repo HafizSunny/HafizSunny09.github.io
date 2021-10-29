@@ -134,9 +134,12 @@
       ]
     },
     {
-      "name": "Engineering Software",
+      "name": "Tools and Platform",
       "level": "Experienced",
       "keywords": [
+        "AWS",
+        "Spark",
+        "Linux"
         "AutoCAD",
         "Solidwork",
         "Rhino",
