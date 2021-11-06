@@ -2,7 +2,7 @@
 layout: post
 title: "new"
 subtitle: "ew"
-background: '/images/cover.jpg'
+background: '\images\cover.jpg'
 ---
 ```python
 import os
