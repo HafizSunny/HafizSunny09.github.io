@@ -86,7 +86,7 @@ images.shape
 
 
 
-![png](output_7_0.png)
+![png](/images/web-scraming/output_7_0.png)
 
 
 
