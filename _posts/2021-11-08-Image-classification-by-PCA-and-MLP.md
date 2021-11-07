@@ -274,13 +274,13 @@ plt.show()
 
 
 
-![png](output_17_0.png)
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Image classification by PCA and MLP\output_17_0.png){: .align-center}
 
 
 
 
 
-![png](output_17_1.png)
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Image classification by PCA and MLP\output_17_1.png){: .align-center}
 
 
 
@@ -330,7 +330,7 @@ plt.show()
 
 
 
-![png](output_20_1.png)
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Image classification by PCA and MLP\output_20_1.png){: .align-center}
 
 
 
@@ -376,7 +376,7 @@ plt.show()
 
 
 
-![png](output_23_0.png)
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Image classification by PCA and MLP\output_23_0.png){: .align-center}
 
 
 
