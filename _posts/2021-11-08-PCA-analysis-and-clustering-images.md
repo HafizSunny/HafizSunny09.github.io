@@ -92,7 +92,7 @@ plt.show()
 
 
 
-![png](output_5_0.png)
+![image-center]({{ site.url }}{{ site.baseurl }}/images\PCA analysis and clustering images\output_5_0.png){: .align-center}
 
 
 
@@ -122,7 +122,7 @@ plt.show()
 
 
 
-![png](output_6_0.png)
+![image-center]({{ site.url }}{{ site.baseurl }}/images\PCA analysis and clustering images\output_6_0.png){: .align-center}
 
 
 
@@ -157,7 +157,7 @@ plt.savefig('/jet/home/mhrahman/Projects/HW3/Figure/original.jpg',dpi = 300)
 
 
 
-![png](output_9_2.png)
+![image-center]({{ site.url }}{{ site.baseurl }}/images\PCA analysis and clustering images\output_9_2.png){: .align-center}
 
 
 
@@ -187,7 +187,7 @@ plt.show()
 
 
 
-![png](output_11_0.png)
+![image-center]({{ site.url }}{{ site.baseurl }}/images\PCA analysis and clustering images\output_11_0.png){: .align-center}
 
 
 
@@ -224,7 +224,7 @@ plt.show()
 
 
 
-![png](output_13_1.png)
+![image-center]({{ site.url }}{{ site.baseurl }}/images\PCA analysis and clustering images\output_13_1.png){: .align-center}
 
 
 
@@ -372,7 +372,7 @@ plt.show()
 
 
 
-![png](output_19_1.png)
+![image-center]({{ site.url }}{{ site.baseurl }}/images\PCA analysis and clustering images\output_19_1.png){: .align-center}
 
 
 
