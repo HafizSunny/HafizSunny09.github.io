@@ -94,7 +94,7 @@ images.shape
 ```
 
 
-![center-aligned-image](/images/web-scraming/output_7_0.png){: .align-center}
+![center-aligned-image](/images\web-scraming\output_7_0.png){: .align-center}
 
 
 
