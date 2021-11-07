@@ -1,5 +1,5 @@
 ---
-title: "Image classification by PCA and MLP"
+title: "PCA analysis and clustering images"
 
 image: /images/cover.jpg
 categories:
