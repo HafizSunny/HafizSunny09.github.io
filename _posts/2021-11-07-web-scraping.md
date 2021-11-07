@@ -311,21 +311,6 @@ plt.show()
 ```
 
 
-    ---------------------------------------------------------------------------
-
-    NameError                                 Traceback (most recent call last)
-
-    <ipython-input-1-2e69af740c5d> in <module>
-          1 #plot training and validation curve
-    ----> 2 acc = model_history.history['accuracy']
-          3 val_acc = model_history.history['val_accuracy']
-          4 loss = model_history.history['loss']
-          5 val_loss = model_history.history['val_loss']
-
-
-    NameError: name 'model_history' is not defined
-
-
 
 ```python
 plt.plot(cb.logs)
@@ -377,21 +362,6 @@ plot_confusion_matrix(cm=cm,classes=cm_plot_labels)
 plt.savefig('/jet/home/mhrahman/Projects/HW2/Figures/Classification_conf_mat.jpg', dpi = 300)
 plt.show()
 ```
-
-
-    ---------------------------------------------------------------------------
-
-    NameError                                 Traceback (most recent call last)
-
-    <ipython-input-1-fce16fc6576a> in <module>
-    ----> 1 Y_pred_label = np.where(Y_pred>0.5,1,0)
-          2 cm = confusion_matrix(test_generator.classes,Y_pred_label)
-          3 cm_plot_labels = ['Pre','Post']
-          4 plot_confusion_matrix(cm=cm,classes=cm_plot_labels)
-          5 plt.savefig('/jet/home/mhrahman/Projects/HW2/Figures/Classification_conf_mat.jpg', dpi = 300)
-
-
-    NameError: name 'np' is not defined
 
 
 
