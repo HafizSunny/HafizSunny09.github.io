@@ -11,7 +11,7 @@ tags:
 last_modified_at: 2021-03-17T10:46:49-04:00
 
 ---
-This is my first post on deep learning. 
+This is my first post on deep learning.
 
 ```python
 import os
@@ -94,8 +94,8 @@ images.shape
 ```
 
 
+![center-aligned-image](/images/web-scraming/output_7_0.png){: .align-center}
 
-![png](/images\web-scraming\output_7_0.png)
 
 
 
