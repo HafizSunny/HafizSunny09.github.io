@@ -94,7 +94,7 @@ imageplot(images)
 images.shape
 ```
 
-![image-center]({{ site.url }}{{ site.baseurl }}/images/output_7_0.png){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Image Classification\output_7_0.png){: .align-center}
 
 
 
@@ -264,7 +264,7 @@ visualkeras.layered_view(model,legend = True,scale_xy=3,to_file='output.png')
 
 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/images/output_18_0.png){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Image Classification\output_18_0.png){: .align-center}
 
 
 
@@ -404,7 +404,7 @@ plt.show()
 
 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/images/output_29_0.png){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Image Classification\output_29_0.png){: .align-center}
 
 
 
@@ -446,7 +446,7 @@ plt.savefig('/jet/home/mhrahman/Projects/HW2/Figures/main_image.jpg',dpi = 300)
 
 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/images/output_33_0.png){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Image Classification\output_33_0.png){: .align-center}
 
 
 
@@ -477,7 +477,7 @@ plt.show()
 
 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/images/output_35_0.png){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Image Classification\output_35_0.png){: .align-center}
 
 
 
