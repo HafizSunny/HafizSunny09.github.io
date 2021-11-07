@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: "Image Classification with Convolutional neural network"
 image: /images/cover.jpg
 categories:
@@ -9,6 +10,12 @@ tags:
   - convolutional neural Network
   - CNN
 last_modified_at: 2021-03-17T10:46:49-04:00
+=======
+layout: post
+title: "new"
+subtitle: "ew"
+background: '/images\web-scraming\cover.jpg'
+>>>>>>> 8bd4b1f50826a2bc3665fb0380ad0475a03be945
 ---
 ```python
 import os
@@ -92,7 +99,7 @@ images.shape
 
 
 
-![png](output_7_0.png)
+![png](/images\web-scraming\output_7_0.png)
 
 
 
