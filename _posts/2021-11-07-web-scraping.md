@@ -93,8 +93,6 @@ imageplot(images)
 images.shape
 ```
 
-
-![center-aligned-image]((image.jpg){: .align-center}
 ![image-center]({{ site.url }}{{ site.baseurl }}/images/output_7_0.png){: .align-center}
 
 
