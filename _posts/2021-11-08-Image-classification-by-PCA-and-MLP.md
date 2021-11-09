@@ -1,6 +1,6 @@
 ---
 title: "Image classification by PCA and MLP"
-image: /images/cover.jpg
+image: /images/Home.jpg
 categories:
   - Classification
 tags:
