@@ -1,6 +1,6 @@
 ---
 title: "Image Classification with Convolutional neural network"
-image: /images/cover.jpg
+image: /images/dreamy.jpg
 categories:
   - Classification
 tags:
