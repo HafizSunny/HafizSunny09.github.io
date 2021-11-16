@@ -111,21 +111,7 @@ plt.savefig('/jet/home/mhrahman/Projects/HW4/Figures/PCA_variance_main.jpg',dpi 
 plt.show()
 ```
 
-
-    ---------------------------------------------------------------------------
-
-    NameError                                 Traceback (most recent call last)
-
-    <ipython-input-1-7a23dae2d1b5> in <module>
-    ----> 1 pca = PCA(2000).fit(np.array(train_image))
-          2 exp_var_pca = pca.explained_variance_ratio_
-          3 cum_sum_eigenvalues = np.cumsum(exp_var_pca)
-          4 plt.figure(figsize=(10,6))
-          5 plt.bar(range(1,len(exp_var_pca)+1), exp_var_pca, alpha=0.5, align='center', label='Individual explained variance')
-
-
-    NameError: name 'PCA' is not defined
-
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Image classification by PCA and MLP\PCA.jpg){: .align-center}{: width="650" }
 
 
 ```python
