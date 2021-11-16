@@ -277,8 +277,6 @@ model_history = model.fit_generator(train_generator, steps_per_epoch=len(train_g
 validation_data=val_generator, validation_steps=len(val_generator), epochs=20, verbose=1, callbacks = [es,cb,checkpoints])
 ```
 
-    157/224 [====================>.........] - ETA: 3:05 - loss: 0.3141 - accuracy: 0.9072
-
 # Plot the results
 
 
@@ -311,7 +309,8 @@ plt.savefig('/jet/home/mhrahman/Projects/HW2/Figures/Classification_loss.jpg',dp
 plt.show()
 ```
 
-
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Image Classification\Classification_acc.jpg){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Image Classification\Classification_loss.jpg){: .align-center}
 
 ```python
 plt.plot(cb.logs)
@@ -322,7 +321,7 @@ plt.legend(['Time'],loc = 'upper right')
 #path = r'/jet/home/mhrahman/Projects/HW1/Figures/Classification_loss.jpg'
 plt.savefig(r'/jet/home/mhrahman/Projects/HW2/Figures/Time.jpg', dpi = 300)
 ```
-
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Image Classification\Time.jpg){: .align-center}
 
 ```python
 Y_pred = model.predict(test_generator)
@@ -364,7 +363,7 @@ plt.savefig('/jet/home/mhrahman/Projects/HW2/Figures/Classification_conf_mat.jpg
 plt.show()
 ```
 
-
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Image Classification\Classification_conf_mat.jpg){: .align-center}
 
 ```python
 from sklearn.metrics import accuracy_score,precision_score,recall_score,f1_score,roc_curve,roc_auc_score
@@ -404,7 +403,7 @@ plt.show()
 
 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/images\Image Classification\output_29_0.png){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Image Classification\Roc_curve.jpg){: .align-center}
 
 
 
