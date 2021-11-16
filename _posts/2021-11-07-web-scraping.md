@@ -309,8 +309,8 @@ plt.savefig('/jet/home/mhrahman/Projects/HW2/Figures/Classification_loss.jpg',dp
 plt.show()
 ```
 
-![image-center]({{ site.url }}{{ site.baseurl }}/images\Image Classification\Classification_acc.jpg){: .align-center}{: width="150" }
-![image-center]({{ site.url }}{{ site.baseurl }}/images\Image Classification\Classification_loss.jpg){: .align-center}{: width="150" }
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Image Classification\Classification_acc.jpg){: .align-center}{: width="200" }
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Image Classification\Classification_loss.jpg){: .align-center}{: width="200" }
 
 ```python
 plt.plot(cb.logs)
