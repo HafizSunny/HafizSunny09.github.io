@@ -309,8 +309,8 @@ plt.savefig('/jet/home/mhrahman/Projects/HW2/Figures/Classification_loss.jpg',dp
 plt.show()
 ```
 
-![image-center]({{ site.url }}{{ site.baseurl }}/images\Image Classification\Classification_acc.jpg){: .align-center}
-![image-center]({{ site.url }}{{ site.baseurl }}/images\Image Classification\Classification_loss.jpg){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Image Classification\Classification_acc.jpg){: .align-center}{: width="250" }
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Image Classification\Classification_loss.jpg){: .align-center}{: width="250" }
 
 ```python
 plt.plot(cb.logs)
@@ -322,6 +322,8 @@ plt.legend(['Time'],loc = 'upper right')
 plt.savefig(r'/jet/home/mhrahman/Projects/HW2/Figures/Time.jpg', dpi = 300)
 ```
 ![image-center]({{ site.url }}{{ site.baseurl }}/images\Image Classification\Time.jpg){: .align-center}
+
+
 
 ```python
 Y_pred = model.predict(test_generator)
