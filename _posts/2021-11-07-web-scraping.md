@@ -309,8 +309,8 @@ plt.savefig('/jet/home/mhrahman/Projects/HW2/Figures/Classification_loss.jpg',dp
 plt.show()
 ```
 
-![image-center]({{ site.url }}{{ site.baseurl }}/images\Image Classification\Classification_acc.jpg){: .align-center}{: width="200" }
-![image-center]({{ site.url }}{{ site.baseurl }}/images\Image Classification\Classification_loss.jpg){: .align-center}{: width="200" }
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Image Classification\Classification_acc.jpg){: .align-center}{: width="650" }
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Image Classification\Classification_loss.jpg){: .align-center}{: width="650" }
 
 ```python
 plt.plot(cb.logs)
@@ -321,7 +321,7 @@ plt.legend(['Time'],loc = 'upper right')
 #path = r'/jet/home/mhrahman/Projects/HW1/Figures/Classification_loss.jpg'
 plt.savefig(r'/jet/home/mhrahman/Projects/HW2/Figures/Time.jpg', dpi = 300)
 ```
-![image-center]({{ site.url }}{{ site.baseurl }}/images\Image Classification\Time.jpg){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Image Classification\Time.jpg){: .align-center}{: width="650" }
 
 
 
@@ -365,7 +365,7 @@ plt.savefig('/jet/home/mhrahman/Projects/HW2/Figures/Classification_conf_mat.jpg
 plt.show()
 ```
 
-![image-center]({{ site.url }}{{ site.baseurl }}/images\Image Classification\Classification_conf_mat.jpg){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Image Classification\Classification_conf_mat.jpg){: .align-center}{: width="650" }
 
 ```python
 from sklearn.metrics import accuracy_score,precision_score,recall_score,f1_score,roc_curve,roc_auc_score
