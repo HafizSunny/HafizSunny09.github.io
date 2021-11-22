@@ -1,3 +1,19 @@
+---
+title: "Timeseries analysis with Recurrent neural network (LSTM/GRU)"
+image: /images/dreamy.jpg
+categories:
+  - Regression
+tags:
+  - content
+  - Timeseries forecasting
+  - Recurrent neural network
+  - LSTM
+  - GRU
+last_modified_at: 2021-03-17T10:46:49-04:00
+
+---
+
+
 ```python
 import os
 import glob
@@ -138,9 +154,9 @@ plt.show()
 ```
 
 
-    
+
 ![png](output_5_0.png)
-    
+
 
 
 # Input and output data generation
@@ -153,11 +169,11 @@ def split_sequence(sequence, n_steps_in, n_steps_out):
         # Finding the end of the pattern
         end_ix = i + n_steps_in
         out_end_ix = end_ix + n_steps_out
-        
+
         # Checking if we are beyond the sequence
         if out_end_ix > len(sequence):
             break
-            
+
         # Gather input and output parts of pattern
         seq_x, seq_y = sequence[i:end_ix], sequence[end_ix : out_end_ix]
         X.append(seq_x)
@@ -335,9 +351,9 @@ plt.show()
 ```
 
 
-    
+
 ![png](output_24_0.png)
-    
+
 
 
 
@@ -353,9 +369,9 @@ plt.show()
 ```
 
 
-    
+
 ![png](output_25_0.png)
-    
+
 
 
 
@@ -384,9 +400,9 @@ plt.show()
 ```
 
 
-    
+
 ![png](output_27_0.png)
-    
+
 
 
 
@@ -408,9 +424,9 @@ plt.show()
 ```
 
 
-    
+
 ![png](output_28_0.png)
-    
+
 
 
 
@@ -431,9 +447,9 @@ plt.show()
 ```
 
 
-    
+
 ![png](output_29_0.png)
-    
+
 
 
 # Testing varying input and output length
@@ -626,7 +642,7 @@ for i in periods:
          71         kwargs.update({k: arg for k, arg in zip(sig.parameters, args)})
     ---> 72         return f(**kwargs)
          73     return inner_f
-         74 
+         74
 
 
     ~/ML/Project/lib/python3.7/site-packages/sklearn/metrics/_regression.py in mean_squared_error(y_true, y_pred, sample_weight, multioutput, squared)
@@ -641,7 +657,7 @@ for i in periods:
          84     check_consistent_length(y_true, y_pred)
          85     y_true = check_array(y_true, ensure_2d=False, dtype=dtype)
     ---> 86     y_pred = check_array(y_pred, ensure_2d=False, dtype=dtype)
-         87 
+         87
          88     if y_true.ndim == 1:
 
 
@@ -650,14 +666,14 @@ for i in periods:
          71         kwargs.update({k: arg for k, arg in zip(sig.parameters, args)})
     ---> 72         return f(**kwargs)
          73     return inner_f
-         74 
+         74
 
 
     ~/ML/Project/lib/python3.7/site-packages/sklearn/utils/validation.py in check_array(array, accept_sparse, accept_large_sparse, dtype, order, copy, force_all_finite, ensure_2d, allow_nd, ensure_min_samples, ensure_min_features, estimator)
         643         if force_all_finite:
         644             _assert_all_finite(array,
     --> 645                                allow_nan=force_all_finite == 'allow-nan')
-        646 
+        646
         647     if ensure_min_samples > 0:
 
 
@@ -837,7 +853,5 @@ plt.show()
 ```
 
 
-    
-![png](output_36_0.png)
-    
 
+![png](output_36_0.png)
