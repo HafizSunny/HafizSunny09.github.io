@@ -154,8 +154,7 @@ plt.show()
 ```
 
 
-
-![png](output_5_0.png)
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Timeseries\output_5_0.png){: .align-center}{: width="650" }
 
 
 
@@ -351,8 +350,7 @@ plt.show()
 ```
 
 
-
-![png](output_24_0.png)
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Timeseries\output_24_0.png){: .align-center}{: width="650" }
 
 
 
@@ -369,8 +367,7 @@ plt.show()
 ```
 
 
-
-![png](output_25_0.png)
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Timeseries\output_25_0.png){: .align-center}{: width="650" }
 
 
 
@@ -400,8 +397,7 @@ plt.show()
 ```
 
 
-
-![png](output_27_0.png)
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Timeseries\output_27_0.png){: .align-center}{: width="650" }
 
 
 
@@ -424,8 +420,7 @@ plt.show()
 ```
 
 
-
-![png](output_28_0.png)
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Timeseries\output_28_0.png){: .align-center}{: width="650" }
 
 
 
@@ -447,8 +442,7 @@ plt.show()
 ```
 
 
-
-![png](output_29_0.png)
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Timeseries\output_29_0.png){: .align-center}{: width="650" }
 
 
 
@@ -489,222 +483,12 @@ for i in periods:
     total_error.append(error)
 ```
 
-    Training for: 25 25
-    Train on 3168 samples, validate on 792 samples
-    3168/3168 [==============================] - 5s 2ms/sample - loss: 0.1068 - val_loss: 0.0038
-    Training for: 25 50
-    Train on 3152 samples, validate on 788 samples
-    3152/3152 [==============================] - 7s 2ms/sample - loss: 0.1040 - val_loss: 0.0039
-    Training for: 25 75
-    Train on 3136 samples, validate on 784 samples
-    3136/3136 [==============================] - 7s 2ms/sample - loss: 0.0961 - val_loss: 0.0116
-    Training for: 25 100
-    Train on 3120 samples, validate on 780 samples
-    3120/3120 [==============================] - 5s 2ms/sample - loss: 0.0937 - val_loss: 0.0094
-    Training for: 25 125
-    Train on 3104 samples, validate on 776 samples
-    3104/3104 [==============================] - 6s 2ms/sample - loss: 0.0944 - val_loss: 0.0110
-    Training for: 25 150
-    Train on 3088 samples, validate on 772 samples
-    3088/3088 [==============================] - 6s 2ms/sample - loss: 0.0815 - val_loss: 0.0110
-    Training for: 25 175
-    Train on 3072 samples, validate on 768 samples
-    3072/3072 [==============================] - 5s 2ms/sample - loss: 0.0839 - val_loss: 0.0102
-    Training for: 25 200
-    Train on 3056 samples, validate on 764 samples
-    3056/3056 [==============================] - 6s 2ms/sample - loss: 0.1012 - val_loss: 0.0085
-    Training for: 50 25
-    Train on 3152 samples, validate on 788 samples
-    3152/3152 [==============================] - 6s 2ms/sample - loss: 0.0985 - val_loss: 0.0049
-    Training for: 50 50
-    Train on 3136 samples, validate on 784 samples
-    3136/3136 [==============================] - 8s 2ms/sample - loss: 0.0955 - val_loss: 0.0057
-    Training for: 50 75
-    Train on 3120 samples, validate on 780 samples
-    3120/3120 [==============================] - 8s 3ms/sample - loss: 0.1124 - val_loss: 0.0072
-    Training for: 50 100
-    Train on 3104 samples, validate on 776 samples
-    3104/3104 [==============================] - 6s 2ms/sample - loss: 0.1139 - val_loss: 0.0104
-    Training for: 50 125
-    Train on 3088 samples, validate on 772 samples
-    3088/3088 [==============================] - 7s 2ms/sample - loss: 0.0903 - val_loss: 0.0094
-    Training for: 50 150
-    Train on 3072 samples, validate on 768 samples
-    3072/3072 [==============================] - 6s 2ms/sample - loss: 0.1048 - val_loss: 0.0115
-    Training for: 50 175
-    Train on 3056 samples, validate on 764 samples
-    3056/3056 [==============================] - 7s 2ms/sample - loss: 0.1288 - val_loss: 0.0188
-    Training for: 50 200
-    Train on 3040 samples, validate on 760 samples
-    3040/3040 [==============================] - 7s 2ms/sample - loss: 0.1050 - val_loss: 0.0204
-    Training for: 75 25
-    Train on 3136 samples, validate on 784 samples
-    3136/3136 [==============================] - 7s 2ms/sample - loss: 0.0973 - val_loss: 0.0093
-    Training for: 75 50
-    Train on 3120 samples, validate on 780 samples
-    3120/3120 [==============================] - 9s 3ms/sample - loss: 0.1041 - val_loss: 0.0090
-    Training for: 75 75
-    Train on 3104 samples, validate on 776 samples
-    3104/3104 [==============================] - 8s 3ms/sample - loss: 0.1106 - val_loss: 0.0162
-    Training for: 75 100
-    Train on 3088 samples, validate on 772 samples
-    3088/3088 [==============================] - 7s 2ms/sample - loss: 0.1137 - val_loss: 0.0100
-    Training for: 75 125
-    Train on 3072 samples, validate on 768 samples
-    3072/3072 [==============================] - 7s 2ms/sample - loss: 0.1651 - val_loss: 0.0704
-    Training for: 75 150
-    Train on 3056 samples, validate on 764 samples
-    3056/3056 [==============================] - 7s 2ms/sample - loss: 0.1031 - val_loss: 0.0105
-    Training for: 75 175
-    Train on 3040 samples, validate on 760 samples
-    3040/3040 [==============================] - 7s 2ms/sample - loss: 0.3534 - val_loss: 0.1221
-    Training for: 75 200
-    Train on 3024 samples, validate on 756 samples
-    3024/3024 [==============================] - 8s 3ms/sample - loss: 0.1578 - val_loss: 0.0669
-    Training for: 100 25
-    Train on 3120 samples, validate on 780 samples
-    3120/3120 [==============================] - 7s 2ms/sample - loss: 0.1334 - val_loss: 0.0430
-    Training for: 100 50
-    Train on 3104 samples, validate on 776 samples
-    3104/3104 [==============================] - 9s 3ms/sample - loss: 0.1155 - val_loss: 0.0097
-    Training for: 100 75
-    Train on 3088 samples, validate on 772 samples
-    3088/3088 [==============================] - 10s 3ms/sample - loss: 101.9191 - val_loss: 0.1466
-    Training for: 100 100
-    Train on 3072 samples, validate on 768 samples
-    3072/3072 [==============================] - 7s 2ms/sample - loss: 6.8368 - val_loss: 0.1498
-    Training for: 100 125
-    Train on 3056 samples, validate on 764 samples
-    3056/3056 [==============================] - 8s 2ms/sample - loss: 0.1681 - val_loss: 0.0703
-    Training for: 100 150
-    Train on 3040 samples, validate on 760 samples
-    3040/3040 [==============================] - 8s 2ms/sample - loss: 59.6738 - val_loss: 0.1325
-    Training for: 100 175
-    Train on 3024 samples, validate on 756 samples
-    3024/3024 [==============================] - 8s 2ms/sample - loss: 866559.0253 - val_loss: 0.1612
-    Training for: 100 200
-    Train on 3008 samples, validate on 752 samples
-    3008/3008 [==============================] - 7s 2ms/sample - loss: 0.1050 - val_loss: 0.0133
-    Training for: 125 25
-    Train on 3104 samples, validate on 776 samples
-    3104/3104 [==============================] - 8s 2ms/sample - loss: 0.1046 - val_loss: 0.0088
-    Training for: 125 50
-    Train on 3088 samples, validate on 772 samples
-    3088/3088 [==============================] - 9s 3ms/sample - loss: 0.1195 - val_loss: 0.0151
-    Training for: 125 75
-    Train on 3072 samples, validate on 768 samples
-    3072/3072 [==============================] - 10s 3ms/sample - loss: 0.1036 - val_loss: 0.0072
-    Training for: 125 100
-    Train on 3056 samples, validate on 764 samples
-    3056/3056 [==============================] - 8s 3ms/sample - loss: 31.7545 - val_loss: 0.1133
-    Training for: 125 125
-    Train on 3040 samples, validate on 760 samples
-    3040/3040 [==============================] - 9s 3ms/sample - loss: 28395.2216 - val_loss: 0.1458
-    Training for: 125 150
-    Train on 3024 samples, validate on 756 samples
-    3024/3024 [==============================] - 8s 3ms/sample - loss: 0.0913 - val_loss: 0.0079
-    Training for: 125 175
-    Train on 3008 samples, validate on 752 samples
-    3008/3008 [==============================] - 9s 3ms/sample - loss: 0.1114 - val_loss: 0.0134
-    Training for: 125 200
-    Train on 2992 samples, validate on 748 samples
-    2992/2992 [==============================] - 10s 3ms/sample - loss: 445529251.9565 - val_loss: 0.1636
-    Training for: 150 25
-    Train on 3088 samples, validate on 772 samples
-    3088/3088 [==============================] - 10s 3ms/sample - loss: 0.1144 - val_loss: 0.0082
-    Training for: 150 50
-    Train on 3072 samples, validate on 768 samples
-    3072/3072 [==============================] - 10s 3ms/sample - loss: nan - val_loss: nan
-
-
-
-    ---------------------------------------------------------------------------
-
-    ValueError                                Traceback (most recent call last)
-
-    <ipython-input-91-e08b93846b33> in <module>
-          7     for j in periods:
-          8         print("Training for:", i,j)
-    ----> 9         er = error_image(i,j,v_data,epochs, batch)
-         10         error.append(er)
-         11     total_error.append(error)
-
-
-    <ipython-input-86-41d606cb5cee> in error_image(step_in, step_out, data, epochs, batch)
-         13                    shuffle = False)
-         14     y_predicted = model.predict(x_test)
-    ---> 15     error = sqrt(mean_squared_error(y_true=y_test,y_pred=y_predicted))
-         16     return error
-
-
-    ~/ML/Project/lib/python3.7/site-packages/sklearn/utils/validation.py in inner_f(*args, **kwargs)
-         70                           FutureWarning)
-         71         kwargs.update({k: arg for k, arg in zip(sig.parameters, args)})
-    ---> 72         return f(**kwargs)
-         73     return inner_f
-         74
-
-
-    ~/ML/Project/lib/python3.7/site-packages/sklearn/metrics/_regression.py in mean_squared_error(y_true, y_pred, sample_weight, multioutput, squared)
-        254     """
-        255     y_type, y_true, y_pred, multioutput = _check_reg_targets(
-    --> 256         y_true, y_pred, multioutput)
-        257     check_consistent_length(y_true, y_pred, sample_weight)
-        258     output_errors = np.average((y_true - y_pred) ** 2, axis=0,
-
-
-    ~/ML/Project/lib/python3.7/site-packages/sklearn/metrics/_regression.py in _check_reg_targets(y_true, y_pred, multioutput, dtype)
-         84     check_consistent_length(y_true, y_pred)
-         85     y_true = check_array(y_true, ensure_2d=False, dtype=dtype)
-    ---> 86     y_pred = check_array(y_pred, ensure_2d=False, dtype=dtype)
-         87
-         88     if y_true.ndim == 1:
-
-
-    ~/ML/Project/lib/python3.7/site-packages/sklearn/utils/validation.py in inner_f(*args, **kwargs)
-         70                           FutureWarning)
-         71         kwargs.update({k: arg for k, arg in zip(sig.parameters, args)})
-    ---> 72         return f(**kwargs)
-         73     return inner_f
-         74
-
-
-    ~/ML/Project/lib/python3.7/site-packages/sklearn/utils/validation.py in check_array(array, accept_sparse, accept_large_sparse, dtype, order, copy, force_all_finite, ensure_2d, allow_nd, ensure_min_samples, ensure_min_features, estimator)
-        643         if force_all_finite:
-        644             _assert_all_finite(array,
-    --> 645                                allow_nan=force_all_finite == 'allow-nan')
-        646
-        647     if ensure_min_samples > 0:
-
-
-    ~/ML/Project/lib/python3.7/site-packages/sklearn/utils/validation.py in _assert_all_finite(X, allow_nan, msg_dtype)
-         97                     msg_err.format
-         98                     (type_err,
-    ---> 99                      msg_dtype if msg_dtype is not None else X.dtype)
-        100             )
-        101     # for object dtype data, we only check for NaNs (GH-13254)
-
-
-    ValueError: Input contains NaN, infinity or a value too large for dtype('float32').
-
-
 
 ```python
 t = np.array(total_error)
 np.save("total.npy",t)
 ```
 
-
-    ---------------------------------------------------------------------------
-
-    NameError                                 Traceback (most recent call last)
-
-    <ipython-input-20-b5c805b1b6aa> in <module>
-    ----> 1 t = np.array(total_error)
-          2 np.save("total.npy",t)
-
-
-    NameError: name 'total_error' is not defined
 
 
 # Ploting the RMSE as heatmap
@@ -853,5 +637,4 @@ plt.show()
 ```
 
 
-
-![png](output_36_0.png)
+![image-center]({{ site.url }}{{ site.baseurl }}/images\Timeseries\output_36_0.png){: .align-center}{: width="650" }
