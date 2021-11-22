@@ -6,8 +6,8 @@ categories:
 tags:
   - content
   - image Classification
-  - convolutional neural Network
-  - CNN
+  - Principal component analysis (PCA)
+  - Multilayer perceprton (MLP)
 last_modified_at: 2021-03-17T10:46:49-04:00
 
 ---
