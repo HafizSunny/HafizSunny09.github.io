@@ -11,7 +11,8 @@ tags:
 last_modified_at: 2021-03-17T10:46:49-04:00
 
 ---
-The target of this Project is to develop a model to classify the boiling regime (pre or post CHF) based on boiling images.
+The target of this Project is to develop a model to classify the boiling regime (pre or post CHF) based on boiling images. The Classification task is performed by convolutional neural network (CNN)
+
 ```python
 import os
 import shutil
